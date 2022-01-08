@@ -144,6 +144,7 @@ a:focus {
   text-fill-color: transparent;
   color: transparent;
   transition: opacity 0.4s;
+  z-index: 100;
 }
 
 /* .menu__item-link::before {
