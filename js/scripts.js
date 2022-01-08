@@ -4,6 +4,7 @@ $(document).ready(function(){
     "beach houses & friends",
     "multihyphanite-wanderlust",
     "rip curls & flip-flops",
+    "certified idea dealer",
     "engineer-as-a-service"
   ]
 
