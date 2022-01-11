@@ -4,7 +4,7 @@ $(document).ready(function(){
     "beach houses & friends",
     "multi-hyphenate wanderlust",
     "rip curls & flip-flops",
-    "\"certified ideas\" dealer",
+    "\"certified\" ideas dealer",
     "engineer-as-a-service"
   ]
 
