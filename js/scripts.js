@@ -2,7 +2,7 @@
 $(document).ready(function(){
   rotation = [
     "beach houses & friends",
-    "multihyphanite-wanderlust",
+    "multi-hyphenate wanderlust",
     "rip curls & flip-flops",
     "\"certified ideas\" dealer",
     "engineer-as-a-service"
