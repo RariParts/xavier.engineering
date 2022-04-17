@@ -180,6 +180,10 @@ a:focus {
   transition: all 0.4s;
 }
 
+.content {
+  padding: 10vh 0 25vh;
+}
+
 /* Make sure 3 items are visible in the viewport by setting suitable font size. */
 
 .marquee {
