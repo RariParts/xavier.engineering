@@ -5,6 +5,7 @@ $(document).ready(function(){
     "multi-hyphenate wanderlust",
     "rip curls & flip-flops",
     "\"certified\" ideas dealer",
+    "anti-tech technologist",
     "engineer-as-a-service"
   ]
 
